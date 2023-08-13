@@ -1,0 +1,4 @@
+outs:
+- md5: c0f1f1dd90bd8f20e4b406c359e648ad
+  size: 779891
+  path: petfinder_adoption_speed_X_train.csv
