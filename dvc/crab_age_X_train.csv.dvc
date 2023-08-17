@@ -1,0 +1,4 @@
+outs:
+- md5: ef53eafc9ba30f5fed5340658024819f
+  size: 3671427
+  path: crab_age_X_train.csv
